@@ -1,4 +1,4 @@
-# The Blue Sky
+# The Blue Sky (Theme 2)
 Monitoring air quality in various cities across the globe is becoming an utmost necessity as air pollution can lead to several respiratory/cardiovascular diseases. As per reports from WHO, more than 7 million mortalities have been recorded worldwide due to diseases related to air pollution. Increasing urbanisation and industrialisation have a negative impact on air quality which is already alarming in many cities across the world. In practice, the installation of ground stations for local air quality measurement would not be a feasible solution. A mobile application in this regard would enable us to make an informed decision.
 <h2><b>Goal</b>: Forecasting Sensor Measurements in Smart Air Aquality Monitoring System</h2>
 
